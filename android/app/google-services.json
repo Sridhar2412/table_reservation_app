@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501005689192",
+    "project_id": "table-reservation-47338",
+    "storage_bucket": "table-reservation-47338.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501005689192:android:732a704199f7e18efdb6dd",
+        "android_client_info": {
+          "package_name": "com.example.table_reservation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv1cQFf6mZxyUu6giXQiHFtR5wT6jv8cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
